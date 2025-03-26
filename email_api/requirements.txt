@@ -1,2 +1,7 @@
-Django>=5.1.6
-djangorestframework>=3.14.0
+# Core Django
+Django==4.2.7
+djangorestframework==3.14.0
+
+# Production
+gunicorn==21.2.0
+whitenoise==6.5.0
