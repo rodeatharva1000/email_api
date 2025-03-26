@@ -1,5 +1,6 @@
 Django
 gunicorn
 whitenoise
-django-environ
-boto3
+dj-database-url
+python-dotenv
+psycopg2-binary
